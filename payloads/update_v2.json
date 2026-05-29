@@ -1,0 +1,22 @@
+{
+  "legislation": [
+    {
+      "ref": "ORD-2026-007",
+      "title": "Coastal Cleanup Drive",
+      "type": "Ordinance",
+      "author": "Ray Remalig",
+      "committee": "Beautification",
+      "filed": "2025-05-28",
+      "status": "Filed",
+      "priority": "High",
+      "synopsis": "To clean the beaches along the shore of Catarman."
+    }
+  ],
+  "sessions": [
+    {
+      "date": "2026-06-15",
+      "type": "emergency"
+    }
+  ]
+}
+
