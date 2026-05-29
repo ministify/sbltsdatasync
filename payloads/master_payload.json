@@ -1,0 +1,7 @@
+{
+  "legislation": [
+    { "ref": "ORD-2026-001", "title": "First Premium Ordinance", "type": "Ordinance", "status": "Approved", "attachments": [] },
+    { "ref": "ORD-2026-002", "title": "Second New Premium Ordinance", "type": "Ordinance", "status": "Approved", "attachments": [] }
+  ],
+  "sessions": []
+}
